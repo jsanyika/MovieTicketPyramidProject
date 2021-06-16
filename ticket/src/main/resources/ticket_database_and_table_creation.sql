@@ -20,6 +20,6 @@ INSERT INTO `ticket` VALUES
 (2,'Godzilla vs. Kong', '7/4/2021', '21:00', 15),
 (3,'The Fate of the Furious', '7/5/2021', '22:00', 15),
 (4,'Spiral', '7/6/2021', '19:00', 15),
-(5,'The House Next Door', '7/7/2021', '18:00', 15),
+(5,'The House Next Door', '7/7/2021', '18:00', 15)
 
 
